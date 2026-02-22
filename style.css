@@ -1,3 +1,16 @@
 body{
     background-color: black;
+    overflow: hidden;
+}
+#a{
+    height: 100vh;
+    width: 200vb;
+    scale: 1.1;
+    
+    position: relative;
+    left:150px;
+    top:-90px;
+    
+    
+   
 }
